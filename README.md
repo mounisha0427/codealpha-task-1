@@ -1,10 +1,10 @@
+𝗜𝗻𝘁𝗲𝗿𝗻 𝗗𝗲𝘁𝗮𝗶𝗹𝘀:
+- 𝗡𝗮𝗺𝗲: K.R.Mounisha
+- 𝗦𝘁𝘂𝗱𝗲𝗻𝘁 𝗜𝗗: CA/AU1/6255
+- company name : Codealpha
+- 𝗗𝗼𝗺𝗮𝗶𝗻: Python Programming
+- 𝗗𝘂𝗿𝗮𝘁𝗶𝗼𝗻: 1st August 2025 to 30th August 2025
 
- -𝗡𝗮𝗺𝗲: K.R.Mounisha
- -company name: Codealpha
- -𝗦𝘁𝘂𝗱𝗲𝗻𝘁 𝗜𝗗: CA/AU1/6255
- -𝗗𝗼𝗺𝗮𝗶𝗻: Python Programming
- -𝗗𝘂𝗿𝗮𝘁𝗶𝗼𝗻: 1st August 2025 to 30th August 2025
- 
  Overview of the project
  
  🔹 Objective:
